@@ -1,3 +1,4 @@
 rails/vendor/
 rails/log/
 Gemfile.lock
+sequel/bm_sequel_create_string_columns.rb
